@@ -21,4 +21,7 @@
   - GitHub
 - **Hosting**:
   - Netlify (for hosting the website)
+ 
+## Live Demo
+- [SiriFolio Live Demo](https://timely-florentine-05be29.netlify.app/)
   
